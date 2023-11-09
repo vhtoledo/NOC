@@ -1,0 +1,5 @@
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-11-09T01:01:10.031Z"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-11-09T01:01:15.008Z"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-11-09T01:01:20.010Z"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-11-09T01:01:25.005Z"}
+{"message":"http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2023-11-09T01:01:30.002Z"}
