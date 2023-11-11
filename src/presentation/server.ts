@@ -17,14 +17,9 @@ export class Server {
         // Mandar email
         //console.log( envs.MAILER_EMAIL, envs.MAILER_SECRET_KEY );
         const emailService = new EmailService();
-        emailService.sendEmail({
-            to: 'victor.toledo23@gmail.com',
-            subject: 'Logs de sistemas',
-            htmlBody: `
-                <h3>Logs de sistema NOC</h3>
-                <p>Ver log adjuntos</p>
-            `
-        })
+        emailService.sendEmailWithFileSystemLogs(
+            ['victorcinema87@gmail.com', 'victor.toledo23@gmail.com']
+        );
 
         //CronService.createJob(
         //    '*/5 * * * * *',
