@@ -1,7 +1,0 @@
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:25.432Z","origin":"check-service.ts"}
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:30.150Z","origin":"check-service.ts"}
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:35.317Z","origin":"check-service.ts"}
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:40.158Z","origin":"check-service.ts"}
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:45.234Z","origin":"check-service.ts"}
-{"message":"Service https://google.com working","level":"low","createdAt":"2023-11-10T02:45:50.226Z","origin":"check-service.ts"}
-{"message":"Log email sent","level":"low","createdAt":"2023-11-11T03:11:59.980Z","origin":"send-email-logs.ts"}
